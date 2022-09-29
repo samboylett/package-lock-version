@@ -1,0 +1,23 @@
+{
+  "name": "package-lock-version",
+  "version": "1.0.0",
+  "description": "Check and assert the package-lock.json version",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "package-lock",
+    "package-lock.json",
+    "lint",
+    "linting",
+    "version",
+    "lockfile",
+    "lockfileVersion"
+  ],
+  "author": "Sam Boylett <sam [at] boylett [dot] com>",
+  "license": "GPL-V3",
+  "dependencies": {
+    "lockfile-info": "^1.0.0"
+  }
+}
