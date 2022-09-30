@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const lockfileInfo = require('lockfile-info');
 
 const run = async() => {
