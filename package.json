@@ -1,9 +1,9 @@
 {
   "name": "package-lock-version",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Check and assert the package-lock.json version",
-  "main": "src/index.js",
-  "bin": "./src/index.js",
+  "main": "src/cli.js",
+  "bin": "./src/cli.js",
   "repository": "https://github.com/samboylett/package-lock-version",
   "homepage": "https://github.com/samboylett/package-lock-version#readme",
   "keywords": [
